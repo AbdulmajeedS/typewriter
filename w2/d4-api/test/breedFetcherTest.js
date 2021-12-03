@@ -1,6 +1,6 @@
 // breedFetcherTest.js
 
-const { fetchBreedDescription } = require('../breedFetcher');
+const { fetchBreedDescription } = require('../json_the_cat/breedFetcher');
 const { assert } = require('chai');
 
 describe('fetchBreedDescription', () => {
