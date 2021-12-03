@@ -18,7 +18,7 @@ describe('fetchBreedDescription', () => {
       done();
 
     });
-    
+
   });
 
   it ('returns an error if an invalid breed is entered', (done) => {
@@ -28,4 +28,5 @@ describe('fetchBreedDescription', () => {
     });
 
   });
+  
 });
